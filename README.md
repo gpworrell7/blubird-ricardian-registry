@@ -52,4 +52,4 @@ stellar contract invoke \
 
 ## License
 
-MIT
+See LICENSE
